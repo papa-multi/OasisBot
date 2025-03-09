@@ -21,7 +21,7 @@ Multi Accounts With Threads
 # Instalation
 
 ```
-git clone      && cd
+git clone https://github.com/papa-multi/OasisBot.git && cd OasisBot
 ```
 
 # Install Requirements
